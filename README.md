@@ -6,6 +6,9 @@ It is using to access anyone to send multiple messages. Warning ⚠️ : Do not 
 You first need to clone or download the repo to your local directory and then move into the project directory as shown in the example and then run the command below:
 
 ```bash
-git clone https://github.com/YourUsername/YourRepo.git
-cd YourRepo
-python setup.py install
+pkg update -y && pkg upgrade -y
+pkg install git -y
+pkg install python -y
+pip install telethon
+git clone https://github.com/AMCreation01/Telegram.git
+```
