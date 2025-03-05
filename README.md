@@ -12,3 +12,10 @@ pkg install python -y
 pip install telethon
 git clone https://github.com/AMCreation01/Telegram.git
 ```
+## How to use ?
+First you open this directory and run this programme below this command:
+
+```bash
+cd Telegram
+python telegram_spam.py
+```
