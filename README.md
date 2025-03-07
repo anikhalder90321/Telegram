@@ -17,7 +17,7 @@ First you open this link https://my.telegram.org and login here. And open direct
 
 ```bash
 cd Telegram
-python telegram_spam.py
+python telegram.py
 ```
 
 ## Fix problems 
