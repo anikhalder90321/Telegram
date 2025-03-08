@@ -24,9 +24,9 @@ python telegram.py
 When you manually stopped middle of the process by pressing ```ctrl + z``` then solve with this command :
 
 ```bash
-ps aux | grep python
+ps aux
 ```
 ```bash
 kill -9 <PID>
 ```
-Enter in <PID> the process ID of the programme you want to stop. When you enter first command then see the process ID of the programme after the username of terminal.
+Enter in <PID> the process ID of the programme telegram.py. When you enter first command then see the process ID of the programme after the username of terminal.
