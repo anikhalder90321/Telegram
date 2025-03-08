@@ -24,7 +24,7 @@ console.print(Text("""
    ╚═╝   ╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝    
 """, style="bold red"))
 
-console.print("[bold cyan] Welcome to GHOST INSTA - TELEGRAM BOMBER[/bold cyan]\n")
+console.print("[bold cyan] Welcome to TELEGRAM BOMBER[/bold cyan]\n")
 console.print("[bold green] Follow the instructions below to proceed...[/bold green]\n")
 
 # File to store API credentials
