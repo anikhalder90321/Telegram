@@ -6,10 +6,9 @@ It is using to access anyone to send multiple messages. Warning ⚠️ : Do not 
 You first need to clone or download the repo to your local directory and then move into the project directory as shown in the example and then run the command below:
 
 ```bash
-pkg update -y && pkg upgrade -y
+pkg update && pkg upgrade -y
 pkg install git -y
 pkg install python -y
-pip install telethon
 git clone https://github.com/AMCreation01/Telegram.git
 ```
 ## How to use ?
@@ -17,6 +16,7 @@ First you open this link https://my.telegram.org and login here. Then, collect y
 
 ```bash
 cd Telegram
+pip install -r requirements.txt
 python telegram.py
 ```
 
