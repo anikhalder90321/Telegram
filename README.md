@@ -13,7 +13,7 @@ pip install telethon
 git clone https://github.com/AMCreation01/Telegram.git
 ```
 ## How to use ?
-First you open this link https://my.telegram.org and login here.Then, collect your api id and api hash.Next, open directory and run this programme below this command:
+First you open this link https://my.telegram.org and login here. Then, collect your api id and api hash. Next, open directory and run this programme below this command:
 
 ```bash
 cd Telegram
