@@ -10,7 +10,7 @@ You first need to clone or download the repo to your local directory and then mo
 ```bash
 pkg install git -y
 pkg install python -y
-git clone https://github.com/AMCreation01/Telegram.git
+git clone https://github.com/d3rkwind/Telegram.git
 ```
 ## How to use ?
 First you open this link https://my.telegram.org and login here. Then, collect your api id and api hash. Next, open directory and run this programme below this command:
