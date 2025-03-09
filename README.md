@@ -1,5 +1,5 @@
 # Telegram
-It is using to access anyone to send multiple messages. Warning ⚠️ : Do not use your main account to send greater than 100 SMS. When you send to possible of chance to ban your Telegram Account.
+It is using to send multiple messages to anyone.**⚠️It is important to avoid sending more than 100 SMS using your main account.** If you send a potential threat to ban your Telegram account.
 
 ![Telegram logo](https://github.com/d3rkwind/Assets/blob/main/IMG_20250309_112244.jpg)
 
