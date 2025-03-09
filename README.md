@@ -6,15 +6,14 @@ It is using to send multiple messages to anyone.
 
 
 ## Installing directly
-You first need to clone or download the repo to your local directory and then move into the project directory as shown in the example and then run the command below:
-
+You first need to clone or download the repository to your local directory, then move into the project directory as shown in the example, and then run the following command:
 ```bash
 pkg install git -y
 pkg install python -y
 git clone https://github.com/d3rkwind/Telegram.git
 ```
 ## How to use ?
-First you open this link https://my.telegram.org and login here. Then, collect your api id and api hash. Next, open directory and run this programme below this command:
+First, open the link https://my.telegram.org and log in. Afterwards, obtain your API id and API hash. Next, open the directory and run this program below this command:
 
 ```bash
 cd Telegram
@@ -23,7 +22,7 @@ python telegram.py
 ```
 
 ## Fix problems 
-When you manually stopped middle of the process by pressing ```ctrl + z``` then solve with this command :
+When you manually stop the middle of the process by pressing **ctrl + z**, you can solve it with this command.
 
 ```bash
 ps aux
