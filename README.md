@@ -8,7 +8,6 @@ It is using to access anyone to send multiple messages. Warning ⚠️ : Do not 
 You first need to clone or download the repo to your local directory and then move into the project directory as shown in the example and then run the command below:
 
 ```bash
-pkg update && pkg upgrade -y
 pkg install git -y
 pkg install python -y
 git clone https://github.com/AMCreation01/Telegram.git
